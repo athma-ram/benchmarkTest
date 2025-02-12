@@ -1,4 +1,3 @@
-# benchmarkTest
 # Benchmark
 
  A total of Seven different benchmarks are used to test the performance of Embedded in this chapter. Each type of benchmarks has its unique focal point for testing.
